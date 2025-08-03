@@ -18,4 +18,6 @@ Agriculture plays a vital role in India’s economy.
  emerges as the most effective among all the other models,
  achieving the lowest MAE and a high R² score of 0.9841,
  reflecting its accuracy and robustness.
+
+ 
  <img width="536" height="363" alt="image" src="https://github.com/user-attachments/assets/548d1edd-30d5-49ea-b5a2-5c1935c96fd0" />
